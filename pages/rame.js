@@ -1,7 +1,7 @@
 export default function Rame(){
     return <div>
-        <h1>
-            JAVASCRIPT LEARNING APSARSHA
-        </h1>
+        <h2>
+        Javascript (JS) is a scripting languages, primarily used on the Web.
+        </h2>
     </div>
 }
